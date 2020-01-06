@@ -1,0 +1,14 @@
+﻿  Task1.cpp
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(255,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(263,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(283,25): warning C4244: аргумент: преобразование "double" в "char", возможна потеря данных
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(121): message : во время компиляции функции-члена класс шаблон "void DataManager<int>::print(void)"
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\Task1.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DataManager<int>::print(void)"
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\Task1.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DataManager<int>"
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(112): message : во время компиляции функции-члена класс шаблон "void DataManager<int>::uploadToFile(void)"
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(45): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DataManager<int>::uploadToFile(void)"
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\DataManager.h(30): message : во время компиляции функции-члена класс шаблон "DataManager<int>::DataManager(void)"
+C:\Users\Admin\source\repos\Lab5_Var2\Task1\Task1.cpp(8): message : выполняется компиляция ссылки на экземпляр шаблон функции "DataManager<int>::DataManager(void)"
+  Task1.vcxproj -> C:\Users\Admin\source\repos\Lab5_Var2\Task1\Debug\Task1.exe

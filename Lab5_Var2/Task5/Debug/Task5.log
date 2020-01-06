@@ -1,0 +1,18 @@
+﻿  Task5.cpp
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Cache.h(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Cache.h(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Cache.h(31): message : во время компиляции функции-члена класс шаблон "bool Cache<int>::contains(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Task5.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Cache<int>::contains(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Task5.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Cache<int>"
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Cache.h(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Cache.h(39): message : во время компиляции функции-члена класс шаблон "void Cache<int>::print(void)"
+C:\Users\Admin\source\repos\Lab5_Var2\Task5\Task5.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Cache<int>::print(void)"
+  Task5.vcxproj -> C:\Users\Admin\source\repos\Lab5_Var2\Task1\Debug\Task5.exe
