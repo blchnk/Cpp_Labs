@@ -1,0 +1,4 @@
+﻿  Lab1_Task2(C++).cpp
+c:\users\ноут\source\repos\lab1_task2(c++)\lab1_task2(c++)\lab1_task2(c++).cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\ноут\source\repos\lab1_task2(c++)\lab1_task2(c++)\lab1_task2(c++).cpp(63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab1_Task2(C++).vcxproj -> C:\Users\Ноут\Source\Repos\Lab1_Task2(C++)\Debug\Lab1_Task2(C++).exe
