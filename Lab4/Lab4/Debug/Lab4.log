@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Admin\source\repos\Lab4\Lab4\Game.cpp(56,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Player.cpp
+  main.cpp
+  Создание кода...
+  Lab4.vcxproj -> C:\Users\Admin\source\repos\Lab4\Debug\Lab4.exe
